@@ -9,11 +9,11 @@
     "example": "examples"
   },
   "dependencies": {
+    "@jimp/custom": "^0.22.10",
+    "@jimp/plugin-resize": "^0.16.1",
+    "@jimp/types": "^0.16.1",
     "@types/lodash": "^4.14.53",
     "@types/node": "^10.11.7",
-    "@jimp/custom": "^0.16.1",
-    "@jimp/types": "^0.16.1",
-    "@jimp/plugin-resize": "^0.16.1",
     "lodash": "^4.17.20",
     "url": "^0.11.0"
   },
@@ -26,7 +26,7 @@
     "chai": "^4.1.2",
     "eslint-plugin-typescript": "^0.14.0",
     "finalhandler": "^1.0.0",
-    "mocha": "^5.2.0",
+    "mocha": "^10.2.0",
     "rimraf": "^2.6.1",
     "serve-static": "^1.11.2",
     "standardx": "^3.0.1",
@@ -34,8 +34,8 @@
     "ts-loader": "^5.2.1",
     "ts-node": "^7.0.1",
     "typescript": "^3.6.3",
-    "typescript-eslint-parser": "^21.0.2",
-    "uglifyjs-webpack-plugin": "^2.0.1",
+    "typescript-eslint-parser": "^18.0.0",
+    "uglifyjs-webpack-plugin": "^1.1.2",
     "webpack": "^4.20.2",
     "webpack-cli": "^3.1.2",
     "worker-loader": "^2.0.0"
